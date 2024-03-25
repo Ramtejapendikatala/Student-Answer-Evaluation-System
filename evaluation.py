@@ -1,13 +1,4 @@
-#Test contains 5 bits 
-# if 1 options are correct in a bit then for each correct option you secure 0.5 marks
-# if 2 options are correct in a bit then for each correct option you secure 0.5 marks
-# if 3 options are correct in a bit then for each correct option you secure 0.33 marks
-# if 4 options are correct in a bit then for each correct option you secure 0.25 marks
-# and for each wrong question -10 marks are removed
-# student should enter the options in abcd only
 
-
-   
 def Eval():
     def NoofAnswers(a):
         count=0
