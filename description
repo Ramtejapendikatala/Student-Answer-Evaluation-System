@@ -1,0 +1,11 @@
+The test contains of n number of bits depends on the exam we can change in source code(example:n= 8 bits)
+Test is of n*20 marks i.e 160 marks
+Scoring:
+if 1 options is correct in a bit then for each correct option you secure 20 marks
+if 2 options are correct in a bit then for each correct option you secure 10 marks
+if 3 options are correct in a bit then for each correct option you secure 6.33 marks
+if 4 options are correct in a bit then for each correct option you secure 5 marks
+The student answer and original answer matched then it prints Correct Answer and respective marks
+The student answer and original answer doesn't matched then it prints Wrong Answer and respective marks
+the student answers and original answers partially matched then it prints partially correct and respective marks
+total marks and percentage of student in the exam
