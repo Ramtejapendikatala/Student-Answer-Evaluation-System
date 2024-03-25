@@ -4,7 +4,7 @@
 # if 3 options are correct in a bit then for each correct option you secure 0.33 marks
 # if 4 options are correct in a bit then for each correct option you secure 0.25 marks
 # and for each wrong question -10 marks are removed
-# student should enter the options in ABCD or abcd only
+# student should enter the options in abcd only
 
 
    
